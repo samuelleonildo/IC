@@ -1,2 +1,2 @@
 # IC---Projeto-Web
- Curso de Introdução à Computação do CIn-UFPE
+ Projeto Web da cadeira de Introdução à Computação do CIn-UFPE
